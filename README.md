@@ -26,3 +26,8 @@ Peter Hart, Nils Nilsson and Bertram Raphael of Stanford Research Institute firs
 ![](img/5.png)
 
 ![](img/6.png)
+
+
+
+
+<p>original video from <a href='https://www.youtube.com/watch?v=JtiK0DOeI4A'>this video</a></p>
