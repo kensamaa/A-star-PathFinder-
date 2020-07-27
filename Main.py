@@ -124,6 +124,7 @@ def algorithm(draw, grid, start, end):
 		if current == end:#if the node we arrived to is the end node
 			reconstruct_path(came_from, end, draw)#make the path we found
 			end.make_end()#not to draw purpl of end node
+			start.make_start()#not to draw purpl of start node
 			return True
 
 		for neighbor in current.neighbors:
